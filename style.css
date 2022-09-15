@@ -19,3 +19,15 @@ body{
     font-weight: bolder;
     width: 130px;
 }
+.copy_right_footer
+{
+    width:100%;
+    color:black;
+    text-shadow: 5px 5px 5px grey;
+    bottom:0;
+    text-align:center;
+    font-size:15px;
+    background-color:white;
+    line-height:3;
+    position:fixed;
+}
